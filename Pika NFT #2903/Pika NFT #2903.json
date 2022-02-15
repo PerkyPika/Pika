@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Purple"
+            },
+            {
+                "trait_type": "Skins",
+                "value": "Brown"
+            },
+            {
+                "trait_type": "Body",
+                "value": "Weed Sweater"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Red Tongue"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Red Glasses"
+            },
+            {
+                "trait_type": "Hats",
+                "value": "Red Hat"
+            }
+        ],
+        "collection": {
+            "family": "Perky Pikas",
+            "name": "Perky Pikas"
+        },
+        "description": "Perky Pika NFT",
+        "external_url": "https://perkypikas.com",
+        "image": "https://www.arweave.net/dEume6EESyPu1gKKfOldzaK0e1DWdslSLFUGi_yx2O4?ext=png",
+        "name": "Pika NFT #2903",
+        "properties": {
+            "category": "image",
+            "creators": [
+                {
+                    "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                    "share": 100
+                }
+            ],
+            "files": [
+                {
+                    "type": "image/png",
+                    "uri": "https://www.arweave.net/dEume6EESyPu1gKKfOldzaK0e1DWdslSLFUGi_yx2O4?ext=png"
+                }
+            ]
+        },
+        "seller_fee_basis_points": 500,
+        "symbol": "pika"
+    },
+    "mint": "DiV2XSEY26LAjsgp6BiGwPVk69L1inUsukVB6X5aHFRW",
+    "tokenData": {
+        "creators": [
+            {
+                "address": "6GW7nHyH7K1ZBmbW85yFMze3coRkYpNWy3irYNZw3uti",
+                "share": 0,
+                "verified": true
+            },
+            {
+                "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                "share": 100,
+                "verified": false
+            }
+        ],
+        "name": "Pika NFT #2903",
+        "sellerFeeBasisPoints": 500,
+        "symbol": "pika",
+        "uri": "https://arweave.net/RLZI4rWwfaUcKcETrFfQwZ4JJxUnYDwSdIqhQmJ51mM"
+    }
+}

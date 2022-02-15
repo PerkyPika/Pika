@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Blue Stripes"
+            },
+            {
+                "trait_type": "Skins",
+                "value": "Purple"
+            },
+            {
+                "trait_type": "Body",
+                "value": "Gold Chain"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Smile"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Thug Glasses"
+            },
+            {
+                "trait_type": "Hats",
+                "value": "Bandana"
+            }
+        ],
+        "collection": {
+            "family": "Perky Pikas",
+            "name": "Perky Pikas"
+        },
+        "description": "Perky Pika NFT",
+        "external_url": "https://perkypikas.com",
+        "image": "https://www.arweave.net/ntltCNwpp_kqj7Bi8vgdm4WSIMkixnk61iRWD0wk3XY?ext=png",
+        "name": "Pika NFT #2066",
+        "properties": {
+            "category": "image",
+            "creators": [
+                {
+                    "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                    "share": 100
+                }
+            ],
+            "files": [
+                {
+                    "type": "image/png",
+                    "uri": "https://www.arweave.net/ntltCNwpp_kqj7Bi8vgdm4WSIMkixnk61iRWD0wk3XY?ext=png"
+                }
+            ]
+        },
+        "seller_fee_basis_points": 500,
+        "symbol": "pika"
+    },
+    "mint": "GdcUVUyiGSpj4KyrCJrTPPYn1mYrCQX8iAHB77CJwiBU",
+    "tokenData": {
+        "creators": [
+            {
+                "address": "6GW7nHyH7K1ZBmbW85yFMze3coRkYpNWy3irYNZw3uti",
+                "share": 0,
+                "verified": true
+            },
+            {
+                "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                "share": 100,
+                "verified": false
+            }
+        ],
+        "name": "Pika NFT #2066",
+        "sellerFeeBasisPoints": 500,
+        "symbol": "pika",
+        "uri": "https://arweave.net/Lf4YOb_XpaS--WAQvAP9wG1JMTx7l1ZBCc0ZnnZUrWQ"
+    }
+}

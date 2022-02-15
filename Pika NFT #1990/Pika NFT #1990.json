@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deep Green"
+            },
+            {
+                "trait_type": "Skins",
+                "value": "Grey"
+            },
+            {
+                "trait_type": "Body",
+                "value": "None"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Goofy"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Glasses"
+            },
+            {
+                "trait_type": "Hats",
+                "value": "Pika Cup"
+            }
+        ],
+        "collection": {
+            "family": "Perky Pikas",
+            "name": "Perky Pikas"
+        },
+        "description": "Perky Pika NFT",
+        "external_url": "https://perkypikas.com",
+        "image": "https://www.arweave.net/fJTw4jmKDhfTcGhvkkfXSLWHba2yRgV0ijaMMvN7aRA?ext=png",
+        "name": "Pika NFT #1990",
+        "properties": {
+            "category": "image",
+            "creators": [
+                {
+                    "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                    "share": 100
+                }
+            ],
+            "files": [
+                {
+                    "type": "image/png",
+                    "uri": "https://www.arweave.net/fJTw4jmKDhfTcGhvkkfXSLWHba2yRgV0ijaMMvN7aRA?ext=png"
+                }
+            ]
+        },
+        "seller_fee_basis_points": 500,
+        "symbol": "pika"
+    },
+    "mint": "GwcBPrxQmg6tZVfhvhuRZgS4gyT8Je8u51mESjMDWvyB",
+    "tokenData": {
+        "creators": [
+            {
+                "address": "6GW7nHyH7K1ZBmbW85yFMze3coRkYpNWy3irYNZw3uti",
+                "share": 0,
+                "verified": true
+            },
+            {
+                "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                "share": 100,
+                "verified": false
+            }
+        ],
+        "name": "Pika NFT #1990",
+        "sellerFeeBasisPoints": 500,
+        "symbol": "pika",
+        "uri": "https://arweave.net/eeublyj5dX-lrYcQEfoEZh5wYX-v9poiKxuOqoHRmz4"
+    }
+}

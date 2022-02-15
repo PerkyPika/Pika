@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Purple-stripes"
+            },
+            {
+                "trait_type": "Skins",
+                "value": "Green"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Red round glasses"
+            },
+            {
+                "trait_type": "Hats",
+                "value": "Red hat"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Pikachu smile"
+            },
+            {
+                "trait_type": "Body",
+                "value": "Blue overals"
+            }
+        ],
+        "collection": {
+            "family": "Perky Pikas",
+            "name": "Perky Pikas"
+        },
+        "description": "Perky Pika NFT",
+        "external_url": "https://perkypikas.com",
+        "image": "https://arweave.net/DmlYgmZNfw_jsRoFRtMibs2qC42eO4izI0i6Ljg7-cI",
+        "name": "Pika NFT #10",
+        "properties": {
+            "category": "image",
+            "creators": [
+                {
+                    "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                    "share": 100
+                }
+            ],
+            "files": [
+                {
+                    "type": "image/png",
+                    "uri": "https://arweave.net/DmlYgmZNfw_jsRoFRtMibs2qC42eO4izI0i6Ljg7-cI"
+                }
+            ]
+        },
+        "seller_fee_basis_points": 500,
+        "symbol": "pika"
+    },
+    "mint": "CdAXdP5XPRPoeG2yJSQiuGLGgdHeVJnRStCPZokJpzxS",
+    "tokenData": {
+        "creators": [
+            {
+                "address": "8HyUMEA9DAqS3ZbXtGf35ACVdb2Uf7cUwdDsCEJFBror",
+                "share": 0,
+                "verified": true
+            },
+            {
+                "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                "share": 100,
+                "verified": false
+            }
+        ],
+        "name": "Pika NFT #10",
+        "sellerFeeBasisPoints": 500,
+        "symbol": "pika",
+        "uri": "https://arweave.net/a9_np0Qj55XKQxqwVHK01B2lX6ya6l4-lVfJFOiV61U"
+    }
+}

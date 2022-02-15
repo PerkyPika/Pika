@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Solana"
+            },
+            {
+                "trait_type": "Skins",
+                "value": "Gold"
+            },
+            {
+                "trait_type": "Body",
+                "value": "Flower Power"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Sad"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "3D Glasses"
+            },
+            {
+                "trait_type": "Hats",
+                "value": "Mc Donalds"
+            }
+        ],
+        "collection": {
+            "family": "Perky Pikas",
+            "name": "Perky Pikas"
+        },
+        "description": "Perky Pika NFT",
+        "external_url": "https://perkypikas.com",
+        "image": "https://www.arweave.net/4Ek4y5AEHrD24Xw-nyvMnuYkyieEP17C8DKEq6p-mLw?ext=png",
+        "name": "Pika NFT #3044",
+        "properties": {
+            "category": "image",
+            "creators": [
+                {
+                    "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                    "share": 100
+                }
+            ],
+            "files": [
+                {
+                    "type": "image/png",
+                    "uri": "https://www.arweave.net/4Ek4y5AEHrD24Xw-nyvMnuYkyieEP17C8DKEq6p-mLw?ext=png"
+                }
+            ]
+        },
+        "seller_fee_basis_points": 500,
+        "symbol": "pika"
+    },
+    "mint": "8C62xuueP8anMhxobmeUjaZHs9ohF8iDvwKrbQkqGmqU",
+    "tokenData": {
+        "creators": [
+            {
+                "address": "6GW7nHyH7K1ZBmbW85yFMze3coRkYpNWy3irYNZw3uti",
+                "share": 0,
+                "verified": true
+            },
+            {
+                "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                "share": 100,
+                "verified": false
+            }
+        ],
+        "name": "Pika NFT #3044",
+        "sellerFeeBasisPoints": 500,
+        "symbol": "pika",
+        "uri": "https://arweave.net/pFe54dUEF1OTDANMJVgBDbsYAF2UaQ33CjsyCMWr1hU"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "attributes": [
+            {
+                "trait_type": "Name",
+                "value": "Xmas Elf"
+            }
+        ],
+        "collection": {
+            "family": "Perky Pikas",
+            "name": "Perky Pikas"
+        },
+        "description": "Perky Pika NFT",
+        "external_url": "https://perkypikas.com",
+        "image": "https://arweave.net/c3wWHAQxjU9xESIWBRw6iKb1KU3DBmEPe3c43xftwxk",
+        "name": "Pika NFT - Xmas Elf",
+        "properties": {
+            "category": "image",
+            "creators": [
+                {
+                    "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                    "share": 100
+                }
+            ],
+            "files": [
+                {
+                    "type": "image/png",
+                    "uri": "https://arweave.net/c3wWHAQxjU9xESIWBRw6iKb1KU3DBmEPe3c43xftwxk"
+                }
+            ]
+        },
+        "seller_fee_basis_points": 500,
+        "symbol": "pika"
+    },
+    "mint": "7CQmVqR92vfgY3sQP6Ya2a3dmd5AceKcSXwyMCMVVff1",
+    "tokenData": {
+        "creators": [
+            {
+                "address": "8HyUMEA9DAqS3ZbXtGf35ACVdb2Uf7cUwdDsCEJFBror",
+                "share": 0,
+                "verified": true
+            },
+            {
+                "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                "share": 100,
+                "verified": false
+            }
+        ],
+        "name": "Pika NFT - Xmas Elf",
+        "sellerFeeBasisPoints": 500,
+        "symbol": "pika",
+        "uri": "https://arweave.net/RGbFtWcrO4QlH-iGfHRfCuTBn0LTP-_nPe-UlFcd-c4"
+    }
+}

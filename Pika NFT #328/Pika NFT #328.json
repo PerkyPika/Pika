@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Purple"
+            },
+            {
+                "trait_type": "Skins",
+                "value": "Pink"
+            },
+            {
+                "trait_type": "Body",
+                "value": "Red Sweater"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Shocked"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Googly"
+            },
+            {
+                "trait_type": "Hats",
+                "value": "Black Hat"
+            }
+        ],
+        "collection": {
+            "family": "Perky Pikas",
+            "name": "Perky Pikas"
+        },
+        "description": "Perky Pika NFT",
+        "external_url": "https://perkypikas.com",
+        "image": "https://www.arweave.net/VeJe9Iz2FsKhGfml6Tq5p0YnWJ61ejP4sAyWowX2flE?ext=png",
+        "name": "Pika NFT #328",
+        "properties": {
+            "category": "image",
+            "creators": [
+                {
+                    "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                    "share": 100
+                }
+            ],
+            "files": [
+                {
+                    "type": "image/png",
+                    "uri": "https://www.arweave.net/VeJe9Iz2FsKhGfml6Tq5p0YnWJ61ejP4sAyWowX2flE?ext=png"
+                }
+            ]
+        },
+        "seller_fee_basis_points": 500,
+        "symbol": "pika"
+    },
+    "mint": "AwaAR5GpVUQ1HxxUnD383TzUsMKZqTYB63R2dznyH5Wv",
+    "tokenData": {
+        "creators": [
+            {
+                "address": "6GW7nHyH7K1ZBmbW85yFMze3coRkYpNWy3irYNZw3uti",
+                "share": 0,
+                "verified": true
+            },
+            {
+                "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                "share": 100,
+                "verified": false
+            }
+        ],
+        "name": "Pika NFT #328",
+        "sellerFeeBasisPoints": 500,
+        "symbol": "pika",
+        "uri": "https://arweave.net/eWAwr8AqW1hXUoGKqNDj7ca4HCMYclWLWt7N-ykOx-4"
+    }
+}

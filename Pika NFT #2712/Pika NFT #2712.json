@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Blue Stripes"
+            },
+            {
+                "trait_type": "Skins",
+                "value": "Purple"
+            },
+            {
+                "trait_type": "Body",
+                "value": "Red Sweater"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Pikachu Smile"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Blue Glasses"
+            },
+            {
+                "trait_type": "Hats",
+                "value": "Rainbow Horn"
+            }
+        ],
+        "collection": {
+            "family": "Perky Pikas",
+            "name": "Perky Pikas"
+        },
+        "description": "Perky Pika NFT",
+        "external_url": "https://perkypikas.com",
+        "image": "https://www.arweave.net/B_DGfHiOlRw60VS060kGb_ufpRehKeNIw25fF_vc60Y?ext=png",
+        "name": "Pika NFT #2712",
+        "properties": {
+            "category": "image",
+            "creators": [
+                {
+                    "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                    "share": 100
+                }
+            ],
+            "files": [
+                {
+                    "type": "image/png",
+                    "uri": "https://www.arweave.net/B_DGfHiOlRw60VS060kGb_ufpRehKeNIw25fF_vc60Y?ext=png"
+                }
+            ]
+        },
+        "seller_fee_basis_points": 500,
+        "symbol": "pika"
+    },
+    "mint": "9JVJfGQH92rt6kDUtzRaP4dAtkJ6qvarvn9FqCNJXFxD",
+    "tokenData": {
+        "creators": [
+            {
+                "address": "6GW7nHyH7K1ZBmbW85yFMze3coRkYpNWy3irYNZw3uti",
+                "share": 0,
+                "verified": true
+            },
+            {
+                "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                "share": 100,
+                "verified": false
+            }
+        ],
+        "name": "Pika NFT #2712",
+        "sellerFeeBasisPoints": 500,
+        "symbol": "pika",
+        "uri": "https://arweave.net/CGatoxRzUb8p7o2jucBIr6FV3x-MMivXKaM8opypuEw"
+    }
+}

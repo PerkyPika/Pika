@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deep Blue"
+            },
+            {
+                "trait_type": "Skins",
+                "value": "Grey"
+            },
+            {
+                "trait_type": "Body",
+                "value": "Tuxedo"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Pink Tongue"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Wink"
+            },
+            {
+                "trait_type": "Hats",
+                "value": "Helicopter"
+            }
+        ],
+        "collection": {
+            "family": "Perky Pikas",
+            "name": "Perky Pikas"
+        },
+        "description": "Perky Pika NFT",
+        "external_url": "https://perkypikas.com",
+        "image": "https://www.arweave.net/25GlU_qlHcTql4d_UwkjeZ3KjYbXR31uelsD-l86MOI?ext=png",
+        "name": "Pika NFT #3063",
+        "properties": {
+            "category": "image",
+            "creators": [
+                {
+                    "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                    "share": 100
+                }
+            ],
+            "files": [
+                {
+                    "type": "image/png",
+                    "uri": "https://www.arweave.net/25GlU_qlHcTql4d_UwkjeZ3KjYbXR31uelsD-l86MOI?ext=png"
+                }
+            ]
+        },
+        "seller_fee_basis_points": 500,
+        "symbol": "pika"
+    },
+    "mint": "6gkknUQAoWwxhAezrRpCh2fA57ENpBFUbP79f7drUeYv",
+    "tokenData": {
+        "creators": [
+            {
+                "address": "6GW7nHyH7K1ZBmbW85yFMze3coRkYpNWy3irYNZw3uti",
+                "share": 0,
+                "verified": true
+            },
+            {
+                "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                "share": 100,
+                "verified": false
+            }
+        ],
+        "name": "Pika NFT #3063",
+        "sellerFeeBasisPoints": 500,
+        "symbol": "pika",
+        "uri": "https://arweave.net/slcXSFTWPeyiuCEPEn1M_yfaDw7tZxlA1IJjKECFHKU"
+    }
+}

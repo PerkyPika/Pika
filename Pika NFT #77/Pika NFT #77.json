@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Purple Gradient"
+            },
+            {
+                "trait_type": "Skins",
+                "value": "Grey"
+            },
+            {
+                "trait_type": "Body",
+                "value": "Bandana"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Broad Smile"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Blue Glasses"
+            },
+            {
+                "trait_type": "Hats",
+                "value": "Headphone"
+            }
+        ],
+        "collection": {
+            "family": "Perky Pikas",
+            "name": "Perky Pikas"
+        },
+        "description": "Perky Pika NFT",
+        "external_url": "https://perkypikas.com",
+        "image": "https://www.arweave.net/6UEcz0yVU5P_BCB4iATQTl1zsv21w72nrov2q55x_7o?ext=png",
+        "name": "Pika NFT #77",
+        "properties": {
+            "category": "image",
+            "creators": [
+                {
+                    "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                    "share": 100
+                }
+            ],
+            "files": [
+                {
+                    "type": "image/png",
+                    "uri": "https://www.arweave.net/6UEcz0yVU5P_BCB4iATQTl1zsv21w72nrov2q55x_7o?ext=png"
+                }
+            ]
+        },
+        "seller_fee_basis_points": 500,
+        "symbol": "pika"
+    },
+    "mint": "3Nurv5Z8wYNqf4upPBJVtvZk4ZF4fJC47wKZMPz8eVpp",
+    "tokenData": {
+        "creators": [
+            {
+                "address": "6PVT2mMUdM1B4noZCQGPGF1HQCRxv2VJ9EnXbB7yyxc6",
+                "share": 0,
+                "verified": true
+            },
+            {
+                "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                "share": 100,
+                "verified": false
+            }
+        ],
+        "name": "Pika NFT #77",
+        "sellerFeeBasisPoints": 500,
+        "symbol": "pika",
+        "uri": "https://arweave.net/BCEI0DPcAUUCh9XBY4D_AXwbboId__Woi60aMYDMMEw"
+    }
+}

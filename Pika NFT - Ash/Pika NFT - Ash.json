@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "attributes": [
+            {
+                "trait_type": "Name",
+                "value": "Ash"
+            }
+        ],
+        "collection": {
+            "family": "Perky Pikas",
+            "name": "Perky Pikas"
+        },
+        "description": "Perky Pika NFT",
+        "external_url": "https://perkypikas.com",
+        "image": "https://arweave.net/SD5iZh-YUpNDbbgepVsp5iGFNoEVCBkeLhFGOTJHc9Y",
+        "name": "Pika NFT - Ash",
+        "properties": {
+            "category": "image",
+            "creators": [
+                {
+                    "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                    "share": 100
+                }
+            ],
+            "files": [
+                {
+                    "type": "image/png",
+                    "uri": "https://arweave.net/SD5iZh-YUpNDbbgepVsp5iGFNoEVCBkeLhFGOTJHc9Y"
+                }
+            ]
+        },
+        "seller_fee_basis_points": 500,
+        "symbol": "pika"
+    },
+    "mint": "HcMxofxFn9oYNGs28UWobg425oVj3bwiSMuXD4oyunfL",
+    "tokenData": {
+        "creators": [
+            {
+                "address": "8HyUMEA9DAqS3ZbXtGf35ACVdb2Uf7cUwdDsCEJFBror",
+                "share": 0,
+                "verified": true
+            },
+            {
+                "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                "share": 100,
+                "verified": false
+            }
+        ],
+        "name": "Pika NFT - Ash",
+        "sellerFeeBasisPoints": 500,
+        "symbol": "pika",
+        "uri": "https://arweave.net/XyxJBI7cwn0vX3DGn6YT6h9CsUzY9QuuzHRmvTZIym0"
+    }
+}

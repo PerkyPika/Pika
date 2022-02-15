@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "attributes": [
+            {
+                "trait_type": "Name",
+                "value": "Spyro"
+            }
+        ],
+        "collection": {
+            "family": "Perky Pikas",
+            "name": "Perky Pikas"
+        },
+        "description": "Perky Pika NFT",
+        "external_url": "https://perkypikas.com",
+        "image": "https://arweave.net/tC48_OCJubOnagOzJMIeFQhkg4X6NjV2Q5bubiR8rwQ",
+        "name": "Pika NFT - Spyro",
+        "properties": {
+            "category": "image",
+            "creators": [
+                {
+                    "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                    "share": 100
+                }
+            ],
+            "files": [
+                {
+                    "type": "image/png",
+                    "uri": "https://arweave.net/tC48_OCJubOnagOzJMIeFQhkg4X6NjV2Q5bubiR8rwQ"
+                }
+            ]
+        },
+        "seller_fee_basis_points": 500,
+        "symbol": "pika"
+    },
+    "mint": "A2HbCwD35irGsKbBcoCWs88dtezn8cGYbpFc4AakEGo7",
+    "tokenData": {
+        "creators": [
+            {
+                "address": "8HyUMEA9DAqS3ZbXtGf35ACVdb2Uf7cUwdDsCEJFBror",
+                "share": 0,
+                "verified": true
+            },
+            {
+                "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                "share": 100,
+                "verified": false
+            }
+        ],
+        "name": "Pika NFT - Spyro",
+        "sellerFeeBasisPoints": 500,
+        "symbol": "pika",
+        "uri": "https://arweave.net/_vU_4s5NLbvbr87LxBd--RU8BVufcvAcBAHHMJ62ojU"
+    }
+}

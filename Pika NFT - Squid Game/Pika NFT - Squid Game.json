@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "attributes": [
+            {
+                "trait_type": "Name",
+                "value": "Squid Game"
+            }
+        ],
+        "collection": {
+            "family": "Perky Pikas",
+            "name": "Perky Pikas"
+        },
+        "description": "Perky Pika NFT",
+        "external_url": "https://perkypikas.com",
+        "image": "https://www.arweave.net/huzdKFlfcthMvzDUnSzLphbnlPe0vRHZ5sa26_VESgI?ext=png",
+        "name": "Pika NFT - Squid Game",
+        "properties": {
+            "category": "image",
+            "creators": [
+                {
+                    "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                    "share": 100
+                }
+            ],
+            "files": [
+                {
+                    "type": "image/png",
+                    "uri": "https://www.arweave.net/huzdKFlfcthMvzDUnSzLphbnlPe0vRHZ5sa26_VESgI?ext=png"
+                }
+            ]
+        },
+        "seller_fee_basis_points": 500,
+        "symbol": "pika"
+    },
+    "mint": "6QuarYCp77Musckha4tEUyoAT8FnPWE2cswfha7fFwUH",
+    "tokenData": {
+        "creators": [
+            {
+                "address": "6PVT2mMUdM1B4noZCQGPGF1HQCRxv2VJ9EnXbB7yyxc6",
+                "share": 0,
+                "verified": true
+            },
+            {
+                "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                "share": 100,
+                "verified": false
+            }
+        ],
+        "name": "Pika NFT - Squid Game",
+        "sellerFeeBasisPoints": 500,
+        "symbol": "pika",
+        "uri": "https://arweave.net/O5lkbqCaf8XDsFoaaghF_0koXW9dXQ73Rr7SYAtLOoU"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "attributes": [
+            {
+                "trait_type": "Name",
+                "value": "Venom"
+            }
+        ],
+        "collection": {
+            "family": "Perky Pikas",
+            "name": "Perky Pikas"
+        },
+        "description": "Perky Pika NFT",
+        "external_url": "https://perkypikas.com",
+        "image": "https://www.arweave.net/5RcHa8Rl-IHjrqqN4vumgys79WWse4FC7pKfZhJCxQU?ext=png",
+        "name": "Pika NFT - Venom",
+        "properties": {
+            "category": "image",
+            "creators": [
+                {
+                    "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                    "share": 100
+                }
+            ],
+            "files": [
+                {
+                    "type": "image/png",
+                    "uri": "https://www.arweave.net/5RcHa8Rl-IHjrqqN4vumgys79WWse4FC7pKfZhJCxQU?ext=png"
+                }
+            ]
+        },
+        "seller_fee_basis_points": 500,
+        "symbol": "pika"
+    },
+    "mint": "FSNKXYM3ECzEB1YrURQqd8iiMzZmrPBvxRxdkLHaWSmK",
+    "tokenData": {
+        "creators": [
+            {
+                "address": "6PVT2mMUdM1B4noZCQGPGF1HQCRxv2VJ9EnXbB7yyxc6",
+                "share": 0,
+                "verified": true
+            },
+            {
+                "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                "share": 100,
+                "verified": false
+            }
+        ],
+        "name": "Pika NFT - Venom",
+        "sellerFeeBasisPoints": 500,
+        "symbol": "pika",
+        "uri": "https://arweave.net/V3snTf6IpRZrAgPz9VclUkqWYOYsLxpnGWqyxvjTUzQ"
+    }
+}
