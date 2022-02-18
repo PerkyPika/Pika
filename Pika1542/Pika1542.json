@@ -3,7 +3,7 @@
     "symbol": "pika",
     "description": "Updated BABYYY",
     "seller_fee_basis_points": 500,
-    "image": "https://raw.githubusercontent.com/samcurtis1502/perkypikasdevnet/main/Charizard.png",
+    "image": "https://raw.githubusercontent.com/PerkyPika/Pika/main/Pika1542/Pika1542.png",
     "external_url": "https://perkypikas.com",
     "attributes": [
         {
@@ -12,7 +12,7 @@
         },
         {
             "trait_type": "Skins",
-            "value": "Skeleton"
+            "value": "White Tiger"
         },
         {
             "trait_type": "Body",
@@ -38,7 +38,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/samcurtis1502/perkypikasdevnet/main/Charizard.png",
+                "uri": "https://raw.githubusercontent.com/PerkyPika/Pika/main/Pika1542/Pika1542.png",
                 "type": "image/png"
             }
         ],
