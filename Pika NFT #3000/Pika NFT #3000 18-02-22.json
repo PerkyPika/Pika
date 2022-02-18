@@ -1,0 +1,33 @@
+{
+    "name": "Pika NFT #3000",
+    "symbol": "pika",
+    "description": "Perky Pika NFT",
+    "seller_fee_basis_points": 500,
+    "image": "https://raw.githubusercontent.com/PerkyPika/Pika/main/Pika%20NFT%20%233000/Pika%20NFT%20%233000%2018-02-22.png",
+    "external_url": "https://perkypikas.com",
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "Toothless"
+        }
+    ],
+    "collection": {
+        "name": "Perky Pikas",
+        "family": "Perky Pikas"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/PerkyPika/Pika/main/Pika%20NFT%20%233000/Pika%20NFT%20%233000%2018-02-22.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                "share": 100
+            }
+        ]
+    }
+}
