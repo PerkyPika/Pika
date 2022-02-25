@@ -3,7 +3,7 @@
     "symbol": "pika",
     "description": "Perky Pika NFT",
     "seller_fee_basis_points": 500,
-    "image": "https://raw.githubusercontent.com/PerkyPika/Pika/main/Pika%20NFT%20%23245/Pika%20NFT%20%23245%2018-02-22.png",
+    "image": "https://raw.githubusercontent.com/PerkyPika/Pika/main/Pika%20NFT%20%23245/Pika%20NFT%20%23245%2025-02-22.png",
     "external_url": "https://perkypikas.com",
     "attributes": [
         {
@@ -38,7 +38,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/PerkyPika/Pika/main/Pika%20NFT%20%23245/Pika%20NFT%20%23245%2018-02-22.png",
+                "uri": "https://raw.githubusercontent.com/PerkyPika/Pika/main/Pika%20NFT%20%23245/Pika%20NFT%20%23245%2025-02-22.png",
                 "type": "image/png"
             }
         ],
