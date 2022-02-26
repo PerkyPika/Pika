@@ -32,7 +32,7 @@
         },
         "description": "Perky Pika NFT",
         "external_url": "https://perkypikas.com",
-        "image": "https://www.arweave.net/FL0TZR3gUmeOLl7H49fwhBgnFOsz0SgobW6ho-jJBaA?ext=png",
+        "image": "https://raw.githubusercontent.com/PerkyPika/Pika/main/Pika%20NFT%20%23442/Pika%20%23442%2025-02-22.png",
         "name": "Pika NFT #442",
         "properties": {
             "category": "image",
@@ -45,7 +45,7 @@
             "files": [
                 {
                     "type": "image/png",
-                    "uri": "https://www.arweave.net/FL0TZR3gUmeOLl7H49fwhBgnFOsz0SgobW6ho-jJBaA?ext=png"
+                    "uri": "https://raw.githubusercontent.com/PerkyPika/Pika/main/Pika%20NFT%20%23442/Pika%20%23442%2025-02-22.png"
                 }
             ]
         },
