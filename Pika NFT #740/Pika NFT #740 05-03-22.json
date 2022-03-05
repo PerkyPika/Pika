@@ -1,28 +1,8 @@
 {
-        "attributes": [
+   "attributes": [
             {
-                "trait_type": "Background",
-                "value": "Orange"
-            },
-            {
-                "trait_type": "Skins",
-                "value": "Purple"
-            },
-            {
-                "trait_type": "Body",
-                "value": "Bandana"
-            },
-            {
-                "trait_type": "Mouth",
-                "value": "Sad"
-            },
-            {
-                "trait_type": "Eyes",
-                "value": "Crossed Eyes"
-            },
-            {
-                "trait_type": "Hats",
-                "value": "Helmet"
+                "trait_type": "Name",
+                "value": "Undervalued NFTs"
             }
         ],
         "collection": {
